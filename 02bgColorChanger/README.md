@@ -14,6 +14,6 @@ A simple React app that allows users to change the background color of the page 
 
 ## 🛠️ Tech Stack
 
-- React (with Functional Components)
+- React (useState())
 - JavaScript (ES6+)
 - Tailwind CSS
