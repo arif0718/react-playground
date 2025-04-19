@@ -15,8 +15,8 @@ A simple and interactive counter app built with React. This project helps demons
 
 ## 🛠️ Tech Stack
 
-- React (with Functional Components)
-- Tailwind CSS (optional, remove if you're using plain CSS)
+- React (useState())
+- Tailwind CSS 
 - JavaScript (ES6+)
 - Shadcn/ui
 
